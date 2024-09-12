@@ -3,63 +3,63 @@ qu:
   nav:
     home: "Morro Solar"
     attractions: "Atracciones"
-    viewpoints: "Miradores"
-    history: "Historia"
+    viewpoints: "Qhawaykuna"
+    history: "Willarina"
   footer:
-    about: "Creadores: Tamara Nawrocki, Maricielo Alfaro, Gabriel Fuentes y Matías Ramos"
+    about: "Kamaqkuna: Tamara Nawrocki, Maricielo Alfaro, Gabriel Fuentes y Matías Ramos"
   home:
     title: "Mapa de Morro Solar"
     map: 
-      legend: "Utiliza este mapa como guía para tu visita a Morro Solar"
-      description: "Morro Solar es un lugar de gran relevancia histórica y cultural en Lima, Perú. Este emblemático sitio ha sido testigo de importantes eventos de la historia peruana, como la Batalla de Chorrillos, y alberga diversos monumentos y miradores que ofrecen vistas espectaculares del Océano Pacífico. Te invitamos a descubrir su riqueza histórica, explorar sus atracciones y conocer más sobre su importancia para el país."
+      legend: "Kay mapata Morro Solar llaqtaman watukunaykipaq pusaq hina llamk'achiy"
+      description: "Morro Solar nisqaqa Lima llaqtapi, Perú suyupi, hatun historiamanta, culturamanta ima ancha chaniyuq sitiom. Kay emblemático sitioqa rikurqanmi Perupa historianpi importante sucesokunata, ahinataq Batalla de Chorrillos, chaypin kashan imaymana monumentokuna, qhawanakuna ima, chaykunan rikuchin Pacífico mamaqochata admirakuypaq qhawariykunata. Invitaykiku qhapaq historianmanta yachanaykipaq, atracciones nisqakunata maskhanaykipaq, suyupaq ancha chaniyoq kasqanmanta astawan yachanaykipaq."
   attractions:
     title: "Atracciones"
     santuario: 
-      title: "Santuario de la Virgen"
-      description: "Este pequeño santuario está dedicado a la Virgen María y se encuentra en una de las elevaciones de Morro Solar. Es un lugar de devoción popular, donde los fieles acuden a rezar, pedir favores y dejar ofrendas. La Virgen de Morro Solar es considerada por muchos como protectora espiritual del lugar, y el santuario se ha convertido en un referente religioso y cultural en la zona."
+      title: "Virgenpa santuario"
+      description: "Kay huch’uy santuarioqa Virgen Mariapaqmi sapaqchasqa, Morro Solar nisqapa huknin altonpim kachkan. Chayqa huk sitio de devoción popular, chaypin hunt’aq runakunaqa hamunku mañakunankupaq, favorkunata mañakunankupaq, ofrendakunata saqenankupaqpas. Virgen de Morro Solar nisqataqa askha runakunan qhawarinku chay cheqaspa espiritualpi amachaq kananpaq, chay santuariotaqmi chay cheqaspi religioso, cultural referenciaman tukupun."
     cross:
-      title: "La Cruz"
-      description: "La Cruz de Morro Solar es una enorme cruz iluminada que se erige en la cima del Morro, visible desde gran parte de la ciudad de Lima, especialmente de noche. Este monumento es un importante símbolo religioso y cultural para los limeños. Es un lugar de encuentro durante celebraciones religiosas y también un punto de referencia visual que conecta la ciudad con su herencia cristiana."
+      title: "Chay cruz"
+      description: "Chay cruz de Morro Solar nisqaqa hatun k’ancharisqa cruzmi, Morro llaqtaq hawanpi sayaq, Lima llaqtaq askha llaqtamantan rikukun, astawanqa tutakunapi. Kay monumentoqa Lima llaqta runakunapaqmi ancha allin religioso, cultural simbulu. Religioso raymikunapi huñunakuna wasim, chaynallataqmi qawanapaq señal, chaymi llaqtata cristiano herencianwan tinkuchin."
     planetarium:
       title: "Planetario"
-      description: "Este museo y observatorio, aunque actualmente en estado de abandono, fue en su momento un importante centro de observación astronómica y divulgación científica. El museo cuenta con una colección de telescopios y otros instrumentos astronómicos. Sin embargo, debido a la falta de mantenimiento y recursos, el observatorio ha caído en desuso. A pesar de su estado actual, sigue siendo un punto de interés para aquellos interesados en la astronomía y la historia de la ciencia en el Perú."
+      description: "Kay museo, observatorio nisqapas, kunan pacha saqisqaña kaptinpas, ñawpaqpiqa ancha chaniyuqmi karqan quyllurkuna qhawaypaq, cientificokunaq mast’arikuyninpaqpas. Chay museopiqa telescopiokuna, huk astronómico instrumentukunapas huñusqam kachkan. Ichaqa mana mantenimiento nisqa kasqanraykum, mana recursos nisqa kasqanraykum chay observatorio nisqa manaña llamkachisqañachu. Kunanña kachkan chaypas, Perú suyupi quyllur yachaymanta, cienciap historianmanta yachay munaqkunapaqqa ancha allinmi."
     trenches:
       title: "Trincheras"
-      description: "Las trincheras de Morro Solar son restos de las fortificaciones construidas durante la Batalla de Chorrillos, parte de la Guerra del Pacífico. Estas fortificaciones fueron utilizadas por las tropas peruanas en un intento de defender Lima de las fuerzas chilenas. Las trincheras son un testimonio tangible de la batalla y ofrecen a los visitantes una vista directa de las condiciones en las que se libró este importante combate. Caminar por estas trincheras permite a los visitantes imaginar la dura realidad de los enfrentamientos."
+      description: "Morro Inti trincheras nisqakunaqa Chorrillos maqanakuypi rurasqa hark'asqa wasikunap puchunmi, Pacífico maqanakuypa hukninmi. Kay hark'asqakunataqa Piruw awqaqkunam Lima llaqtata Chili awqaqkunap amachananta munaspa llamk'achirqan. Chay trincheras nisqakunaqa chay maqanakuymanta testimonio tangiblemi, visitantekunamantaqmi directo qhawariyta qon ima condicionkunapichus kay importante combate ruwakusqanmanta. Chay trincherasninta purispaqa watukuqkunam yuyaymananku chay maqanakuypa sinchi chiqap kayninta."
     soldier:
       title: "Monumento al Soldado Desconocido"
       description: "Este monumento rinde homenaje a los soldados peruanos que participaron en la Batalla de San Juan y Chorrillos durante la Guerra del Pacífico (1879-1883). La batalla fue una de las más sangrientas de la guerra, y el monumento honra a aquellos que perdieron la vida defendiendo su patria. Es un lugar solemne que invita a la reflexión sobre los sacrificios realizados durante este conflicto histórico."
     iglesias:
-      title: "Monumento Miguel Iglesias"
-      description: "Miguel Iglesias fue un militar y político peruano que jugó un papel crucial durante la Guerra del Pacífico. El monumento está dedicado a su memoria y liderazgo, especialmente en los años posteriores a la guerra, cuando asumió la presidencia de Perú en un periodo extremadamente difícil para el país. Iglesias es conocido por haber firmado el Tratado de Ancón, que puso fin a la guerra. El monumento es un reconocimiento a su contribución al país en un momento crítico de su historia."
+      title: "Miguel Iglesias sutiyuq runap monumenton"
+      description: "Miguel Iglesias sutiyuq runaqa Piruw mama llaqtayuq awqaq pusaqmi karqan, pulitikupas, Pacífico mama llaqtapi awqanakuypi ancha hatun llamk'ayta rurarqan. Kay monumentoqa yuyarinapaqmi, umallinanpaqmi, aswantaqa awqanakuy qipa watakunapi, chaypim Perú suyupa umalliq kayninta hapirqa, suyupaq ancha sasa pachakunapi. Iglesiasqa riqsisqam Ancón rimanakuypi firmasqanrayku, chaymi awqanakuy tukurqan. Kay monumentoqa, historianpi ancha sasachakuy pachapi suyuman yanapakusqanmanta riqsichiymi."
     christ:
       title: "Cristo del Pacífico"
-      description: "Este monumento rinde homenaje a los soldados peruanos que participaron en la Batalla de San Juan y Chorrillos durante la Guerra del Pacífico (1879-1883). La batalla fue una de las más cruentas de la guerra, y el monumento honra a aquellos que perdieron la vida defendiendo su patria. Es un lugar solemne que invita a la reflexión sobre los sacrificios realizados durante este conflicto histórico."
+      description: "Kay monumentoqa Perumanta awqaqkunatam yupaychan, paykunam San Juan hinaspa Chorrillos maqanakuypi yanapakurqaku, Pacífico Guerrapi (1879-1883). Chay maqanakuyqa aswan yawarchasqa maqanakuykunamanta hukninmi karqan, chay monumentoqa llaqtankuta defiendespa kawsayninkuta chinkachiqkunatan yupaychan. Chayqa huk solemne lugarmi, chaymi invitan yuyaymanayta kay histórico ch’aqwaypi sacrificiokuna ruwasqamanta."
   viewpoints:
-    title: "Miradores"
+    title: "Qhawaykuna"
     herradura:
-      title: "Mirador La Herradura"
-      description: "Este mirador ofrece una vista impresionante de la Bahía de la Herradura, una de las playas más conocidas de Lima, ubicada en el distrito de Chorrillos. Desde aquí, los visitantes pueden disfrutar de la hermosa curva en forma de herradura de la costa, así como del oleaje del océano Pacífico. Es un lugar popular para observar el atardecer y tomar fotografías panorámicas de la bahía."
+      title: "La Herradura Qhaway"
+      description: "Kay qhawana wasiqa Bahía de la Herradura llaqtata musphachiq qhawariyta qun, Lima llaqtapi aswan riqsisqa playakunamanta huknin, Chorrillos distritupi tarikun. Kaymantam watukuq runakunaqa quchapa patanpi sumaq herraduraman rikchakuq kurkukunata qawanmanku, chaynallataqmi Pacífico mama quchapa olakunatapas. Chayqa ancha riqsisqam inti chinkaykuy qawanapaq hinaspa bahía nisqamanta fotokunata hurqunapaq."
     tillandsias:
-      title: "Mirador de las Tillandsias"
-      description: "Este mirador es especial por la vegetación única que lo rodea, especialmente las tillandsias, unas plantas epífitas conocidas por crecer en áreas áridas y que sobreviven captando humedad del aire. La presencia de estas plantas le da un toque natural al mirador, y desde aquí se puede observar tanto la flora autóctona como las vistas del Morro Solar y el océano."
+      title: "Tillandsias Qhaway"
+      description: "Kay qhawariyqa ancha allinmi, muyuriqninpi sapaq yurakuna kasqanrayku, aswantaqa tillandsias nisqa yurakuna, ch’aki suyukunapi wiñasqankumanta riqsisqa, wayramanta humedadta hap’ispa kawsaq yurakuna. Chay yurakuna kasqanmi qawarinapaqqa huk natural toqueta qun, kaymantam qawarinki iskaynin flora nativa nisqatapas, Morro Solar nisqapa qawariynintapas, mama quchatapas."
     fraile:
-      title: "Mirador del Salto del Fraile"
-      description: "Este mirador tiene una vista privilegiada de la zona costera donde se encuentra la famosa formación rocosa conocida como el 'Salto del Fraile.' El nombre proviene de una leyenda local sobre un fraile que, con el corazón roto, se lanzó al mar desde este acantilado. El mirador permite apreciar tanto la formación rocosa como el dramático paisaje marino, que es parte del atractivo turístico del lugar."
+      title: "Salto del Fraile nisqamanta qhawariy"
+      description: "Kay qhawariyqa privilegiasqa qhawariyniyuqmi chay costa nisqapi maypichus tarikun chay riqsisqa qaqa formación riqsisqa ‘Salto del Fraile’ nisqawan. Chay sutiqa hamun chay llaqtapi leyendamanta, huk frailemanta, paymi sonqo p’akisqa, kay qaqamanta lamar qochaman saltaykusqa. Chay qhawana wasiqa qaqakuna ruwakuyninta, lamar quchap manchay rikch’ayninta ima, chay kitipi turistakunap qhawanapaq kayninpa hukninmi."
     arana:
-      title: "Mirador Paso de la Araña"
-      description: "Este mirador está ubicado en una zona donde las formaciones rocosas crean un estrecho paso que, visto desde arriba, se asemeja a las patas de una araña. Desde aquí, los visitantes pueden disfrutar de vistas cercanas a las formaciones geológicas del Morro Solar, así como de las impresionantes vistas al mar y a la ciudad. Es un mirador menos conocido pero igual de fascinante para quienes buscan una perspectiva diferente del paisaje."
+      title: "Araña Pasa Qhaway"
+      description: "Kay qhawayqa tarikun huk kitipi maypichus qaqakuna ruwasqa huk k’iti pasajeta ruwan, hanaqmanta qhawarisqa, huk araña chakiman rikch’akun. Kaymanta, watukuqkuna Morro Solar geológicas formaciones nisqakunata qayllamanta qhawayta atinku, hinallataq mama quchata, llaqtatapas musphay qhawariykunata. Aswan pisi riqsisqa qhawariymi ichaqa kaqllataqmi munay hukniray qhawariyta maskhaqkunapaq."
     morro:
-      title: "Mirador del Morro"
-      description: "Este es uno de los puntos más altos del Morro Solar y ofrece una vista panorámica de 360 grados que abarca la ciudad de Lima y el océano Pacífico. Es un mirador icónico por su elevación, lo que lo convierte en un excelente lugar para contemplar el amanecer o el atardecer. Debido a su altura, es un lugar privilegiado para ver tanto el paisaje urbano como el mar en todo su esplendor."
+      title: "Morro Qhaway"
+      description: "Kayqa Morro Solarpa huknin aswan alto kaqninmi, chaymi 360 grados panorámica nisqa qawariyta qun, chaymi Lima llaqtata hinaspa Pacífico mama quchatapas qawarin. Altura kasqanraykum huk icónico qawana, chaymi inti lluqsimuy utaq inti chinkaykuy qawanapaq ancha allin. Alto kasqanraykum, llaqtapa paisajentapas, lamar quchatapas tukuy sumaq kayninpi qawanapaqqa ancha allinpuni."
   history:
-    title: "El Morro Solar a Través del Tiempo"
+    title: "El Morro Intimanta pacha"
     importance:
-      title: "Importancia Histórica"
-      description: "El Morro Solar, ubicado en el distrito de Chorrillos, al sur de Lima, es un lugar de gran importancia histórica en Perú. Este promontorio ha sido testigo de momentos cruciales en la historia del país, especialmente durante la Guerra del Pacífico (1879-1883). Sirvió como posición estratégica para las tropas peruanas y fue el lugar donde muchos soldados perdieron la vida defendiendo su patria."
+      title: "Importancia Histórica nisqa"
+      description: "Morro Solar, Chorrillos distritupi, Lima llaqtap uralanpi, Perú suyupi ancha chaniyuq historiamanta. Kay promontorio nisqapin rikukurqan hatun momentokuna suyuq historianpi, aswantaqa Guerra del Pacífico nisqapi (1879-1883). Perú tropakunapaq estratégico posición hinam karqa, chaypim achka soldadokuna llaqtankuta defiendespanku wañurqaku."
     battle:
-      title: "La Batalla de Chorrillos"
-      description: "El 13 de enero de 1881, durante la Campaña de Lima, el ejército chileno atacó las fortificaciones peruanas en el Morro Solar. A pesar de la valiente defensa peruana, la superioridad numérica y de recursos del ejército chileno resultó en una derrota devastadora para Perú, marcando el inicio de la ocupación chilena en Lima."
+      title: "Chorrillos llaqtapi maqanakuy"
+      description: "13 ñiqin kantaray killapi 1881 p'unchawpi Lima Kampaña kachkaptin Chili awqaqsikuna Morro Solar nisqapi Piruwpa hark'asqankunata atakarqan. Piruwpa kallpasapa hark'akuynin kaptinpas, Chile awqaq suyup yupaypi, kapuqninpas aswan allin kayninmi Perú suyupaq sinchi atipasqa karqan, chaymi Chilep Lima llaqtata hap'iynin qallarirqan."
     today:
-      title: "El Morro Solar Hoy"
-      description: "Actualmente, el Morro Solar es un símbolo de resistencia y patriotismo. El lugar ha sido acondicionado para recibir visitantes y alberga monumentos en honor a los caídos. Además de su importancia histórica, ofrece impresionantes vistas del océano Pacífico y la ciudad de Lima, atrayendo a turistas locales e internacionales. Como parte del Patrimonio Histórico del Perú, se realizan esfuerzos continuos para preservar sus monumentos y trincheras."
+      title: "El Morro Intimanta Kunan pacha"
+      description: "Kunanqa Morro Intiqa hark'akuypa, mama llaqta munakuypa siq'inmi. Chay sitioqa wakichisqañam watukuqkunata chaskinankupaq, chaypim monumentokunata churanku urmasqakunata yupaychanankupaq. Ñawpa pachamanta ancha chaniyuq kayninmanta aswantaqa, Pacífico mama quchata, Lima llaqtatapas admirakuypaq qawariykunatam qun, chaymi llaqtamanta hinaspa hawa llaqtakunamanta turistakuna hamun. Patrimonio Histórico del Perú nisqapiqa sapa kutim kallpanchakunku monumentonkunata, trincheras nisqakunatapas waqaychanankupaq."

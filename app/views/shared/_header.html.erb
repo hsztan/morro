@@ -7,7 +7,7 @@
       <%= link_to t('nav.history'), history_path, class: 'px-4 py-2 bg-transparent text-white rounded hover:bg-[#293439] text-center' %>
       <%= form_tag(change_locale_path, method: :post, class: 'ml-auto') do %>
       <%= select_tag :locale, 
-                     options_for_select([['English', 'en'], ['Español', 'es']], I18n.locale),
+                     options_for_select([['English', 'en'], ['Español', 'es'], ['Quechua', 'qu']], I18n.locale),
                      onchange: 'this.form.submit()',
                      class: 'px-4 py-2 bg-transparent text-white rounded hover:bg-[#293439] border border-white' %>
       <% end %>
