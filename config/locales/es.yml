@@ -8,7 +8,7 @@ es:
   footer:
     about: "Creadores: Tamara Nawrocki, Maricielo Alfaro, Gabriel Fuentes y Matías Ramos"
   home:
-    title: "Mapa de Morro Solar"
+    title: "Guía Solar"
     map: 
       legend: "Utiliza este mapa como guía para tu visita a Morro Solar"
       description: "Morro Solar es un lugar de gran relevancia histórica y cultural en Lima, Perú. Este emblemático sitio ha sido testigo de importantes eventos de la historia peruana, como la Batalla de Chorrillos, y alberga diversos monumentos y miradores que ofrecen vistas espectaculares del Océano Pacífico. Te invitamos a descubrir su riqueza histórica, explorar sus atracciones y conocer más sobre su importancia para el país."
@@ -17,22 +17,22 @@ es:
     santuario: 
       title: "Santuario de la Virgen"
       description: "Este pequeño santuario está dedicado a la Virgen María y se encuentra en una de las elevaciones de Morro Solar. Es un lugar de devoción popular, donde los fieles acuden a rezar, pedir favores y dejar ofrendas. La Virgen de Morro Solar es considerada por muchos como protectora espiritual del lugar, y el santuario se ha convertido en un referente religioso y cultural en la zona."
-    cruz:
+    cross:
       title: "La Cruz"
       description: "La Cruz de Morro Solar es una enorme cruz iluminada que se erige en la cima del Morro, visible desde gran parte de la ciudad de Lima, especialmente de noche. Este monumento es un importante símbolo religioso y cultural para los limeños. Es un lugar de encuentro durante celebraciones religiosas y también un punto de referencia visual que conecta la ciudad con su herencia cristiana."
-    planetario:
+    planetarium:
       title: "Planetario"
       description: "Este museo y observatorio, aunque actualmente en estado de abandono, fue en su momento un importante centro de observación astronómica y divulgación científica. El museo cuenta con una colección de telescopios y otros instrumentos astronómicos. Sin embargo, debido a la falta de mantenimiento y recursos, el observatorio ha caído en desuso. A pesar de su estado actual, sigue siendo un punto de interés para aquellos interesados en la astronomía y la historia de la ciencia en el Perú."
-    trincheras:
+    trenches:
       title: "Trincheras"
       description: "Las trincheras de Morro Solar son restos de las fortificaciones construidas durante la Batalla de Chorrillos, parte de la Guerra del Pacífico. Estas fortificaciones fueron utilizadas por las tropas peruanas en un intento de defender Lima de las fuerzas chilenas. Las trincheras son un testimonio tangible de la batalla y ofrecen a los visitantes una vista directa de las condiciones en las que se libró este importante combate. Caminar por estas trincheras permite a los visitantes imaginar la dura realidad de los enfrentamientos."
-    soldado:
+    soldier:
       title: "Monumento al Soldado Desconocido"
       description: "Este monumento rinde homenaje a los soldados peruanos que participaron en la Batalla de San Juan y Chorrillos durante la Guerra del Pacífico (1879-1883). La batalla fue una de las más sangrientas de la guerra, y el monumento honra a aquellos que perdieron la vida defendiendo su patria. Es un lugar solemne que invita a la reflexión sobre los sacrificios realizados durante este conflicto histórico."
     iglesias:
       title: "Monumento Miguel Iglesias"
       description: "Miguel Iglesias fue un militar y político peruano que jugó un papel crucial durante la Guerra del Pacífico. El monumento está dedicado a su memoria y liderazgo, especialmente en los años posteriores a la guerra, cuando asumió la presidencia de Perú en un periodo extremadamente difícil para el país. Iglesias es conocido por haber firmado el Tratado de Ancón, que puso fin a la guerra. El monumento es un reconocimiento a su contribución al país en un momento crítico de su historia."
-    cristo:
+    christ:
       title: "Cristo del Pacífico"
       description: "Este monumento rinde homenaje a los soldados peruanos que participaron en la Batalla de San Juan y Chorrillos durante la Guerra del Pacífico (1879-1883). La batalla fue una de las más cruentas de la guerra, y el monumento honra a aquellos que perdieron la vida defendiendo su patria. Es un lugar solemne que invita a la reflexión sobre los sacrificios realizados durante este conflicto histórico."
   viewpoints:

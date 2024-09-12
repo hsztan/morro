@@ -36,14 +36,14 @@ en:
   footer:
     about: "Creators: Tamara Nawrocki, Maricielo Alfaro, Gabriel Fuentes and Matías Ramos"
   home:
-    title: "Morro Solar Map"
+    title: "Solar Guide"
     map: 
       legend: "Use this map as a guide for your visit to Morro Solar"
       description: "Morro Solar is a place of great historical and cultural relevance in Lima, Peru. This emblematic site has witnessed important events in Peruvian history, such as the Battle of Chorrillos, and houses various monuments and viewpoints that offer spectacular views of the Pacific Ocean. We invite you to discover its historical richness, explore its attractions, and learn more about its importance to the country."
   attractions:
     title: "Attractions"
     santuario: 
-      title: "Sanctuary of the Virgen"
+      title: "Sanctuary of the Virgin"
       description: "This small sanctuary is dedicated to the Virgin Mary and is located on one of the elevations of Morro Solar. It is a place of popular devotion, where the faithful come to pray, ask for favors, and leave offerings. The Virgin of Morro Solar is considered by many as a spiritual protector of the place, and the sanctuary has become a religious and cultural reference point in the area."
     cross:
       title: "The Cross"
