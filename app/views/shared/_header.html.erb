@@ -1,16 +1,46 @@
 <header class="bg-[#627b87] p-4 relative">
   <div class="relative z-10">
-    <nav class="w:100 flex flex-col sm:flex-row space-y-2 sm:space-y-0 sm:space-x-4">
-      <%= link_to 'MORRO SOLAR', root_path, class: 'text-3xl text-white font-bold mr-8 hover:text-neutral-900 text-center' %>
-      <%= link_to t('nav.attractions'), attractions_path, class: 'px-4 py-2 bg-transparent text-white rounded hover:bg-[#293439] text-center' %>
-      <%= link_to t('nav.viewpoints'), viewpoints_path, class: 'px-4 py-2 bg-transparent text-white rounded hover:bg-[#293439] text-center' %>
-      <%= link_to t('nav.history'), history_path, class: 'px-4 py-2 bg-transparent text-white rounded hover:bg-[#293439] text-center' %>
-      <%= form_tag(change_locale_path, method: :post, class: 'ml-auto') do %>
-      <%= select_tag :locale, 
-                     options_for_select([['English', 'en'], ['Español', 'es'], ['Quechua', 'qu']], I18n.locale),
-                     onchange: 'this.form.submit()',
-                     class: 'px-4 py-2 bg-transparent text-white rounded hover:bg-[#293439] border border-white' %>
-      <% end %>
+    <nav class="w:100 flex justify-between sm:items-center flex-col sm:flex-row space-y-2 sm:space-y-0 sm:space-x-4">
+      <div class="flex justify-between items-center">
+        <%= link_to 'MORRO SOLAR', root_path, class: 'text-3xl text-white font-bold mr-8 hover:text-neutral-900' %>
+        <button id="NavDropToggle" class="sm:hidden text-white hover:text-neutral-900">
+          <svg xmlns="http://www.w3.org/2000/svg" class="h-6 w-6" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M4 6h16M4 12h16m-7 6h7"></path>
+          </svg>
+        </button>
+      </div>
+      <div id="NavDrop" class="flex justify-center flex-col sm:flex-row">
+        <%= link_to t('nav.attractions'), attractions_path, class: 'px-3 ml-2 sm:ml-1 py-1 bg-transparent text-white rounded hover:bg-[#293439]' %>
+        <%= link_to t('nav.viewpoints'), viewpoints_path, class: 'px-3 ml-2 sm:ml-1 py-1 bg-transparent text-white rounded hover:bg-[#293439]' %>
+        <%= link_to t('nav.history'), history_path, class: 'px-3 ml-2 sm:ml-1 py-1 bg-transparent text-white rounded hover:bg-[#293439]' %>
+        <%= form_tag(change_locale_path, method: :post, class: 'flex justify-center') do %>
+        <%= select_tag :locale, 
+                       options_for_select([['English', 'en'], ['Español', 'es'], ['Quechua', 'qu']], I18n.locale),
+                       onchange: 'this.form.submit()',
+                       class: 'px-3 ml-2 sm:ml-1 py-1 bg-transparent text-white rounded hover:bg-[#293439] border border-white' %>
+        <% end %>
+      </div>
     </nav>
   </div>
 </header>
+
+<script>
+  document.addEventListener('turbo:load', () => {
+    const navDrop = document.getElementById('NavDrop');
+    const navDropToggle = document.getElementById('NavDropToggle');
+    navDropToggle.addEventListener('click', () => {
+      navDrop.classList.toggle('hidden');
+    });
+  });
+  
+  window.addEventListener('resize', () => {
+    const navDrop = document.getElementById('NavDrop');
+    if (window.innerWidth > 640) {
+      navDrop.classList.remove('hidden');
+    } else {
+      navDrop.classList.add('hidden');
+    }
+  });
+
+</script>
+
