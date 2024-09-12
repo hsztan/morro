@@ -1,10 +1,16 @@
 <header class="bg-[#627b87] p-4 relative">
   <div class="relative z-10">
-    <nav class="flex flex-col sm:flex-row space-y-2 sm:space-y-0 sm:space-x-4">
+    <nav class="w:100 flex flex-col sm:flex-row space-y-2 sm:space-y-0 sm:space-x-4">
       <%= link_to 'MORRO SOLAR', root_path, class: 'text-3xl text-white font-bold mr-8 hover:text-neutral-900 text-center' %>
-      <%= link_to 'Atracciones', attractions_path, class: 'px-4 py-2 bg-transparent text-white rounded hover:bg-[#293439] text-center' %>
-      <%= link_to 'Miradores', viewpoints_path, class: 'px-4 py-2 bg-transparent text-white rounded hover:bg-[#293439] text-center' %>
-      <%= link_to 'Historia', history_path, class: 'px-4 py-2 bg-transparent text-white rounded hover:bg-[#293439] text-center' %>
+      <%= link_to t('nav.attractions'), attractions_path, class: 'px-4 py-2 bg-transparent text-white rounded hover:bg-[#293439] text-center' %>
+      <%= link_to t('nav.viewpoints'), viewpoints_path, class: 'px-4 py-2 bg-transparent text-white rounded hover:bg-[#293439] text-center' %>
+      <%= link_to t('nav.history'), history_path, class: 'px-4 py-2 bg-transparent text-white rounded hover:bg-[#293439] text-center' %>
+      <%= form_tag(change_locale_path, method: :post, class: 'ml-auto') do %>
+      <%= select_tag :locale, 
+                     options_for_select([['English', 'en'], ['Español', 'es']], I18n.locale),
+                     onchange: 'this.form.submit()',
+                     class: 'px-4 py-2 bg-transparent text-white rounded hover:bg-[#293439] border border-white' %>
+      <% end %>
     </nav>
   </div>
 </header>

@@ -3,6 +3,8 @@ Rails.application.routes.draw do
   get "pages/attractions", as: :attractions
   get "pages/viewpoints", as: :viewpoints
   get "pages/history", as: :history
+
+  post "/change_locale", to: "application#change_locale", as: :change_locale
   # Define your application routes per the DSL in https://guides.rubyonrails.org/routing.html
 
   # Reveal health status on /up that returns 200 if the app boots with no exceptions, otherwise 500.

@@ -1,0 +1,65 @@
+
+es:
+  nav:
+    home: "Morro Solar"
+    attractions: "Atracciones"
+    viewpoints: "Miradores"
+    history: "Historia"
+  footer:
+    about: "Creadores: Tamara Nawrocki, Maricielo Alfaro, Gabriel Fuentes y Matías Ramos"
+  home:
+    title: "Mapa de Morro Solar"
+    map: 
+      legend: "Utiliza este mapa como guía para tu visita a Morro Solar"
+      description: "Morro Solar es un lugar de gran relevancia histórica y cultural en Lima, Perú. Este emblemático sitio ha sido testigo de importantes eventos de la historia peruana, como la Batalla de Chorrillos, y alberga diversos monumentos y miradores que ofrecen vistas espectaculares del Océano Pacífico. Te invitamos a descubrir su riqueza histórica, explorar sus atracciones y conocer más sobre su importancia para el país."
+  attractions:
+    title: "Atracciones"
+    santuario: 
+      title: "Santuario de la Virgen"
+      description: "Este pequeño santuario está dedicado a la Virgen María y se encuentra en una de las elevaciones de Morro Solar. Es un lugar de devoción popular, donde los fieles acuden a rezar, pedir favores y dejar ofrendas. La Virgen de Morro Solar es considerada por muchos como protectora espiritual del lugar, y el santuario se ha convertido en un referente religioso y cultural en la zona."
+    cruz:
+      title: "La Cruz"
+      description: "La Cruz de Morro Solar es una enorme cruz iluminada que se erige en la cima del Morro, visible desde gran parte de la ciudad de Lima, especialmente de noche. Este monumento es un importante símbolo religioso y cultural para los limeños. Es un lugar de encuentro durante celebraciones religiosas y también un punto de referencia visual que conecta la ciudad con su herencia cristiana."
+    planetario:
+      title: "Planetario"
+      description: "Este museo y observatorio, aunque actualmente en estado de abandono, fue en su momento un importante centro de observación astronómica y divulgación científica. El museo cuenta con una colección de telescopios y otros instrumentos astronómicos. Sin embargo, debido a la falta de mantenimiento y recursos, el observatorio ha caído en desuso. A pesar de su estado actual, sigue siendo un punto de interés para aquellos interesados en la astronomía y la historia de la ciencia en el Perú."
+    trincheras:
+      title: "Trincheras"
+      description: "Las trincheras de Morro Solar son restos de las fortificaciones construidas durante la Batalla de Chorrillos, parte de la Guerra del Pacífico. Estas fortificaciones fueron utilizadas por las tropas peruanas en un intento de defender Lima de las fuerzas chilenas. Las trincheras son un testimonio tangible de la batalla y ofrecen a los visitantes una vista directa de las condiciones en las que se libró este importante combate. Caminar por estas trincheras permite a los visitantes imaginar la dura realidad de los enfrentamientos."
+    soldado:
+      title: "Monumento al Soldado Desconocido"
+      description: "Este monumento rinde homenaje a los soldados peruanos que participaron en la Batalla de San Juan y Chorrillos durante la Guerra del Pacífico (1879-1883). La batalla fue una de las más sangrientas de la guerra, y el monumento honra a aquellos que perdieron la vida defendiendo su patria. Es un lugar solemne que invita a la reflexión sobre los sacrificios realizados durante este conflicto histórico."
+    iglesias:
+      title: "Monumento Miguel Iglesias"
+      description: "Miguel Iglesias fue un militar y político peruano que jugó un papel crucial durante la Guerra del Pacífico. El monumento está dedicado a su memoria y liderazgo, especialmente en los años posteriores a la guerra, cuando asumió la presidencia de Perú en un periodo extremadamente difícil para el país. Iglesias es conocido por haber firmado el Tratado de Ancón, que puso fin a la guerra. El monumento es un reconocimiento a su contribución al país en un momento crítico de su historia."
+    cristo:
+      title: "Cristo del Pacífico"
+      description: "Este monumento rinde homenaje a los soldados peruanos que participaron en la Batalla de San Juan y Chorrillos durante la Guerra del Pacífico (1879-1883). La batalla fue una de las más cruentas de la guerra, y el monumento honra a aquellos que perdieron la vida defendiendo su patria. Es un lugar solemne que invita a la reflexión sobre los sacrificios realizados durante este conflicto histórico."
+  viewpoints:
+    title: "Miradores"
+    herradura:
+      title: "Mirador La Herradura"
+      description: "Este mirador ofrece una vista impresionante de la Bahía de la Herradura, una de las playas más conocidas de Lima, ubicada en el distrito de Chorrillos. Desde aquí, los visitantes pueden disfrutar de la hermosa curva en forma de herradura de la costa, así como del oleaje del océano Pacífico. Es un lugar popular para observar el atardecer y tomar fotografías panorámicas de la bahía."
+    tillandsias:
+      title: "Mirador de las Tillandsias"
+      description: "Este mirador es especial por la vegetación única que lo rodea, especialmente las tillandsias, unas plantas epífitas conocidas por crecer en áreas áridas y que sobreviven captando humedad del aire. La presencia de estas plantas le da un toque natural al mirador, y desde aquí se puede observar tanto la flora autóctona como las vistas del Morro Solar y el océano."
+    fraile:
+      title: "Mirador del Salto del Fraile"
+      description: "Este mirador tiene una vista privilegiada de la zona costera donde se encuentra la famosa formación rocosa conocida como el 'Salto del Fraile.' El nombre proviene de una leyenda local sobre un fraile que, con el corazón roto, se lanzó al mar desde este acantilado. El mirador permite apreciar tanto la formación rocosa como el dramático paisaje marino, que es parte del atractivo turístico del lugar."
+    arana:
+      title: "Mirador Paso de la Araña"
+      description: "Este mirador está ubicado en una zona donde las formaciones rocosas crean un estrecho paso que, visto desde arriba, se asemeja a las patas de una araña. Desde aquí, los visitantes pueden disfrutar de vistas cercanas a las formaciones geológicas del Morro Solar, así como de las impresionantes vistas al mar y a la ciudad. Es un mirador menos conocido pero igual de fascinante para quienes buscan una perspectiva diferente del paisaje."
+    morro:
+      title: "Mirador del Morro"
+      description: "Este es uno de los puntos más altos del Morro Solar y ofrece una vista panorámica de 360 grados que abarca la ciudad de Lima y el océano Pacífico. Es un mirador icónico por su elevación, lo que lo convierte en un excelente lugar para contemplar el amanecer o el atardecer. Debido a su altura, es un lugar privilegiado para ver tanto el paisaje urbano como el mar en todo su esplendor."
+  history:
+    title: "El Morro Solar a Través del Tiempo"
+    importance:
+      title: "Importancia Histórica"
+      description: "El Morro Solar, ubicado en el distrito de Chorrillos, al sur de Lima, es un lugar de gran importancia histórica en Perú. Este promontorio ha sido testigo de momentos cruciales en la historia del país, especialmente durante la Guerra del Pacífico (1879-1883). Sirvió como posición estratégica para las tropas peruanas y fue el lugar donde muchos soldados perdieron la vida defendiendo su patria."
+    battle:
+      title: "La Batalla de Chorrillos"
+      description: "El 13 de enero de 1881, durante la Campaña de Lima, el ejército chileno atacó las fortificaciones peruanas en el Morro Solar. A pesar de la valiente defensa peruana, la superioridad numérica y de recursos del ejército chileno resultó en una derrota devastadora para Perú, marcando el inicio de la ocupación chilena en Lima."
+    today:
+      title: "El Morro Solar Hoy"
+      description: "Actualmente, el Morro Solar es un símbolo de resistencia y patriotismo. El lugar ha sido acondicionado para recibir visitantes y alberga monumentos en honor a los caídos. Además de su importancia histórica, ofrece impresionantes vistas del océano Pacífico y la ciudad de Lima, atrayendo a turistas locales e internacionales. Como parte del Patrimonio Histórico del Perú, se realizan esfuerzos continuos para preservar sus monumentos y trincheras."

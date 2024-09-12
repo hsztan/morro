@@ -28,4 +28,66 @@
 #       enabled: "ON"
 
 en:
-  hello: "Hello world"
+  nav:
+    home: "Morro Solar"
+    attractions: "Attractions"
+    viewpoints: "Viepoints"
+    history: "History"
+  footer:
+    about: "Creators: Tamara Nawrocki, Maricielo Alfaro, Gabriel Fuentes and Matías Ramos"
+  home:
+    title: "Morro Solar Map"
+    map: 
+      legend: "Use this map as a guide for your visit to Morro Solar"
+      description: "Morro Solar is a place of great historical and cultural relevance in Lima, Peru. This emblematic site has witnessed important events in Peruvian history, such as the Battle of Chorrillos, and houses various monuments and viewpoints that offer spectacular views of the Pacific Ocean. We invite you to discover its historical richness, explore its attractions, and learn more about its importance to the country."
+  attractions:
+    title: "Attractions"
+    santuario: 
+      title: "Sanctuary of the Virgen"
+      description: "This small sanctuary is dedicated to the Virgin Mary and is located on one of the elevations of Morro Solar. It is a place of popular devotion, where the faithful come to pray, ask for favors, and leave offerings. The Virgin of Morro Solar is considered by many as a spiritual protector of the place, and the sanctuary has become a religious and cultural reference point in the area."
+    cross:
+      title: "The Cross"
+      description: "The Cross of Morro Solar is a huge illuminated cross that stands at the top of the Morro, visible from much of the city of Lima, especially at night. This monument is an important religious and cultural symbol for the people of Lima. It is a meeting place during religious celebrations and also a visual reference point that connects the city with its Christian heritage."
+    planetarium:
+      title: "Planetarium"
+      description: "This museum and observatory, although currently in a state of abandonment, was once an important center for astronomical observation and scientific dissemination. The museum has a collection of telescopes and other astronomical instruments. However, due to lack of maintenance and resources, the observatory has fallen into disuse. Despite its current state, it remains a point of interest for those interested in astronomy and the history of science in Peru."
+    trenches:
+      title: "Trenches"
+      description: "The trenches of Morro Solar are remains of the fortifications built during the Battle of Chorrillos, part of the War of the Pacific. These fortifications were used by Peruvian troops in an attempt to defend Lima from Chilean forces. The trenches are a tangible testimony of the battle and offer visitors a direct view of the conditions in which this important combat was fought. Walking through these trenches allows visitors to imagine the harsh reality of the clashes."
+    soldier:
+      title: "Unkown Soldier's Monument"
+      description: "This monument pays tribute to the Peruvian soldiers who participated in the Battle of San Juan and Chorrillos during the War of the Pacific (1879-1883). The battle was one of the bloodiest of the war, and the monument honors those who lost their lives defending their homeland. It is a solemn place that invites reflection on the sacrifices made during this historical conflict."
+    iglesias:
+      title: "Monument of Miguel Iglesias"
+      description: "Miguel Iglesias was a Peruvian military officer and politician who played a crucial role during the War of the Pacific. The monument is dedicated to his memory and leadership, especially in the years following the war, when he assumed the presidency of Peru in an extremely difficult period for the country. Iglesias is known for having signed the Treaty of Ancón, which ended the war. The monument is a recognition of his contribution to the country at a critical moment in its history."
+    christ:
+      title: "Christ of the Pacific"
+      description: "The Christ of the Pacific is a large statue of 37 meters in height (including the base) that was inaugurated in 2011. The statue, which resembles the Christ the Redeemer of Rio de Janeiro, stands at the top of Morro Solar and is visible from various points in Lima. It is a place of pilgrimage and tourism, offering a stunning panoramic view of the city and the Pacific Ocean. The statue was donated by a Brazilian businessman and generated controversy at the time due to its symbolism and location."
+  viewpoints:
+    title: "Viewpoints"
+    herradura:
+      title: "Herradura Viewpoint"
+      description: "This viewpoint offers a stunning view of the Bay of La Herradura, one of the most famous beaches in Lima, located in the district of Chorrillos. From here, visitors can enjoy the beautiful horseshoe-shaped curve of the coast, as well as the waves of the Pacific Ocean. It is a popular place to watch the sunset and take panoramic photographs of the bay."
+    tillandsias:
+      title: "Tillandsias Viewpoint"
+      description: "This viewpoint is special for the unique vegetation that surrounds it, especially the tillandsias, epiphytic plants known for growing in arid areas and surviving by capturing moisture from the air. The presence of these plants gives the viewpoint a natural touch, and from here you can observe both the native flora and the views of Morro Solar and the ocean."
+    fraile:
+      title: "Salto del Fraile Viewpoint"
+      description: "This viewpoint has a privileged view of the coastal area where the famous rock formation known as the 'Salto del Fraile' is located. The name comes from a local legend about a friar who, with a broken heart, threw himself into the sea from this cliff. The viewpoint allows you to appreciate both the rock formation and the dramatic marine landscape, which is part of the tourist attraction of the place."
+    arana:
+      title: "Paso de Araña Viewpoint"
+      description: "This viewpoint is located in an area where the rock formations create a narrow passage that, when viewed from above, resembles the legs of a spider. From here, visitors can enjoy close-up views of the geological formations of Morro Solar, as well as stunning views of the sea and the city. It is a less known but equally fascinating viewpoint for those looking for a different perspective of the landscape."
+    morro:
+      title: "Morro Viewpoint"
+      description: "This is one of the highest points of Morro Solar and offers a 360-degree panoramic view that covers the city of Lima and the Pacific Ocean. It is an iconic viewpoint due to its elevation, making it an excellent place to contemplate the sunrise or sunset. Due to its height, it is a privileged place to see both the urban landscape and the sea in all its splendor."
+  history:
+    title: "Morro Solar Through Time"
+    importance:
+      title: "Historical Importance"
+      description: "Morro Solar, located in the district of Chorrillos, south of Lima, is a place of great historical importance in Peru. This promontory has witnessed crucial moments in the country's history, especially during the War of the Pacific (1879-1883). It served as a strategic position for Peruvian troops and was the place where many soldiers lost their lives defending their homeland."
+    battle:
+      title: "Battle of Chorrillos"
+      description: "On January 13, 1881, during the Lima Campaign, the Chilean army attacked the Peruvian fortifications on Morro Solar. Despite the brave defense by the Peruvian troops, the numerical and resource superiority of the Chilean army resulted in a devastating defeat for Peru, marking the beginning of the Chilean occupation of Lima."
+    today:
+      title: "Morro Solar Today"
+      description: "Today, Morro Solar is a symbol of resistance and patriotism. The place has been conditioned to receive visitors and houses monuments in honor of the fallen. In addition to its historical importance, it offers stunning views of the Pacific Ocean and the city of Lima, attracting local and international tourists. As part of Peru's Historical Heritage, continuous efforts are made to preserve its monuments and trenches."
