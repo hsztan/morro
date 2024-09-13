@@ -63,5 +63,5 @@ group :test do
 end
 
 gem 'net-protocol', '>= 0'
-gem 'net-pop'
+gem 'net-pop', github: 'ruby/net-pop'
 
