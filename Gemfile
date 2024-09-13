@@ -62,4 +62,6 @@ group :test do
   gem "selenium-webdriver"
 end
 
-gem "net-protocol", "~> 0.2.2"
+gem 'net-protocol', '>= 0'
+gem 'net-pop'
+

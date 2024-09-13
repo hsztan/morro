@@ -328,7 +328,8 @@ DEPENDENCIES
   debug
   importmap-rails
   jbuilder
-  net-protocol (~> 0.2.2)
+  net-pop
+  net-protocol
   pg
   puma (>= 5.0)
   rails (~> 7.2.0)
